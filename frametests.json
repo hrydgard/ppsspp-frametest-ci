@@ -1,0 +1,13 @@
+{
+	"testRoot": "dumps",
+	"refRoot": "ref",
+	"outputRoot": "out",
+	"headlessPath": "",
+	"timeout": 60,
+	"maxMse": 0.0,
+	"variants": {
+		"soft": {
+			"args": "--graphics=software"
+		}
+	}
+}
